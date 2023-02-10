@@ -69,102 +69,95 @@ GET: `https://memoriagame.github.io/assets/game/checkers/peca1.png
 GET: `https://memoriagame.github.io/assets/game/checkers/peca2.png
 ```
 
-#### GET: `https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca1.png
-GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca2.png
-```
+#### API: `https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca1.png`
+- GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca2.png`
 
-#### GET: `https://memoriagame.github.io/assets/game/chess {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/game/chess/tower.png
-GET: `https://memoriagame.github.io/assets/game/chess/horse.png
-GET: `https://memoriagame.github.io/assets/game/chess/pawn.png
-GET: `https://memoriagame.github.io/assets/game/chess/bishop.png
-GET: `https://memoriagame.github.io/assets/game/chess/queen.png
-GET: `https://memoriagame.github.io/assets/game/chess/king.png
-```
+#### API: `https://memoriagame.github.io/assets/game/chess {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/chess/tower.png`
+- GET: `https://memoriagame.github.io/assets/game/chess/horse.png`
+- GET: `https://memoriagame.github.io/assets/game/chess/pawn.png`
+- GET: `https://memoriagame.github.io/assets/game/chess/bishop.png`
+- GET: `https://memoriagame.github.io/assets/game/chess/queen.png`
+- GET: `https://memoriagame.github.io/assets/game/chess/king.png`
 
-#### GET: `https://memoriagame.github.io/assets/mockup/{mockup-type} {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/mockup/desktop/
-GET: `https://memoriagame.github.io/assets/mockup/mobile/
-```
+#### API: `https://memoriagame.github.io/assets/mockup/{mockup-type} {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/mockup/desktop/`
+- GET: `https://memoriagame.github.io/assets/mockup/mobile/`
 
-#### GET: `https://memoriagame.github.io/assets/mockup/desktop/ {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop1.png
-GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop2.png
-```
+#### API: `https://memoriagame.github.io/assets/mockup/desktop/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop1.png`
+- GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop2.png`
 
-#### GET: `https://memoriagame.github.io/assets/mockup/mobile/ {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile1.png
-GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile2.png
-```
-
-#### GET: `https://memoriagame.github.io/assets/character/pokemon/ {.png, .jpeg, .jpg, .svg}
-```markdown
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/kadabra.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/mimikyu.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/slowbro.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/espeon.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/murkrow.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/togepi.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/wobbuffet.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/gloom.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/nickit.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/croagunk.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/glastly.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/drowzee.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/drifloon.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/ralts.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/spinda.jpeg
-GET: `https://memoriagame.github.io/assets/game/character/pokemon/psyduck.jpeg
-```
-
-#### GET: `https://memoriagame.github.io/assets/character/naruto/ {.png, .jpeg, .jpg, .svg}
-#### GET: `https://memoriagame.github.io/assets/character/death-note/ {.png, .jpeg, .jpg, .svg}
-#### GET: `https://memoriagame.github.io/assets/character/one-piece/ {.png, .jpeg, .jpg, .svg}
-#### GET: `https://memoriagame.github.io/assets/character/dragon-ball-z/ {.png, .jpeg, .jpg, .svg}
-#### GET: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao/ {.png, .jpeg, .jpg, .svg}
-#### GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho/ {.png, .jpeg, .jpg, .svg}
-
-#### GET: `https://memoriagame.github.io/assets/logo/ {.png, .jpeg, .jpg, .svg}
-```markdown
-#### GET: `https://memoriagame.github.io/assets/logo/logo.jpg  <!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
-
-```
-
-```markdown
-
-GET: `https://memoriagame.github.io/assets/favicon
-- /favicon.jpg
-
-GET: `https://memoriagame.github.io/assets/logo
-
-GET: `https://memoriagame.github.io/assets/mockup/mobile
-- /mobile1.jpg
-- /mobile2.jpg
-
-GET: `https://memoriagame.github.io/assets/paises
-GET: `https://memoriagame.github.io/assets/readme
-
-GET: `https://memoriagame.github.io/assets/game/back
-- /back.png
-- /back.jpeg
+#### API: `https://memoriagame.github.io/assets/mockup/mobile/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile1.png`
+- GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile2.png`
 
 
-GET: `https://memoriagame.github.io/assets/game/cidade/nome-da-cidade.jpeg
-GET: `https://memoriagame.github.io/assets/game/estado/nome-do-estado.jpeg
-GET: `https://memoriagame.github.io/assets/game/pais/nome-do-pais.jpeg
+#### API: `https://memoriagame.github.io/assets/character/pokemon/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/kadabra.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/mimikyu.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/slowbro.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/espeon.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/murkrow.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/togepi.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/wobbuffet.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/gloom.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/nickit.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/croagunk.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/glastly.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/drowzee.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/drifloon.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/ralts.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/spinda.jpeg`
+- GET: `https://memoriagame.github.io/assets/game/character/pokemon/psyduck.jpeg`
 
-GET: `https://memoriagame.github.io/assets/game/tema
-- /tema1.png
-- /tema2.png
+#### API: `https://memoriagame.github.io/assets/character/naruto/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/naruto.png`
 
-GET: `https://memoriagame.github.io/assets/game/cenario
-- /cenario1.png
-- /cenario2.png
-```
+#### API: `https://memoriagame.github.io/assets/character/death-note/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/death-note.png`
+
+#### API: `https://memoriagame.github.io/assets/character/one-piece/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/one-piece.png`
+
+#### API: `https://memoriagame.github.io/assets/character/dragon-ball-z/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/dragon-ball-z.png`
+
+#### API: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao.png`
+
+#### API: `https://memoriagame.github.io/assets/character/yuyu-hakusho/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho.png`
+
+#### API: `https://memoriagame.github.io/assets/logo/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/logo/logo.jpg`  <!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
+
+#### API: `https://memoriagame.github.io/assets/geography/city-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/geography/city-name/city-name.png`
+
+#### API: `https://memoriagame.github.io/assets/geography/country/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/geography/country/country-name.png`
+
+#### API: `https://memoriagame.github.io/assets/geography/state-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/geography/state/state-name.png`
+
+#### API: `https://memoriagame.github.io/assets/game/game-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/scene/scene1.png`
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/scene/scene2.png`
+
+
+#### API: `https://memoriagame.github.io/assets/game/game-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/back/back1.png`
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/back/back2.png`
+
+#### API: `https://memoriagame.github.io/assets/game/game-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/theme/theme1.png`
+- GET: `https://memoriagame.github.io/assets/game/memoriagame/theme/theme2.png`
+
+#### API: `https://memoriagame.github.io/assets/game/game-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/readme/readme.png`
+
+#### API: `https://memoriagame.github.io/assets/game/game-name/ {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/favicon/favicon.png`
