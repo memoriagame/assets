@@ -4,10 +4,10 @@ arquivos de imagens
 ## API
 
 ### Allowed extensions
-allow-ext: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
+extension: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 
 ### Movie
-`https://memoriagame.github.io/assets/movie/{movie_genre}/filename{allow-ext}`
+`https://memoriagame.github.io/assets/movie/{movie_genre}/filename{extension}`
 
 *callback*
 - GET: `https://memoriagame.github.io/assets/movie/action/`
@@ -45,7 +45,7 @@ allow-ext: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 - GET: `https://memoriagame.github.io/assets/movie/thriller`
 
 ### API
-`https://memoriagame.github.io/assets/mythology/{mythology_type}/filename{allow-ext}`
+`https://memoriagame.github.io/assets/mythology/{mythology_type}/filename{extension}`
 
 *callback*
 - GET: `https://memoriagame.github.io/assets/movie/mythology/`
@@ -61,7 +61,7 @@ allow-ext: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/chinese/`
 
 ### API
-`https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename{allow-ext}`
+`https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename{extension}`
 
 *callback*
 - GET: `https://memoriagame.github.io/assets/movie_theater/screenwriter`
@@ -69,7 +69,7 @@ allow-ext: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 - GET: `https://memoriagame.github.io/assets/movie_theater/animator`
 
 ### API
-`https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename{allow-ext}`
+`https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename{extension}`
 
 Em nossa historiografia movie_theatertográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do movie_theater sonoro, as chanchadas, o movie_theater Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
 
