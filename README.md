@@ -1,12 +1,10 @@
-# assets
-arquivos de imagens
+# API
+pasta com coleção de arquivos estáticos como imagens de forma pública para o jogo memoriagame
 
 ## Allowed extensions
 extension: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 
-## API
-
-### Movie
+## Movie
 `https://memoriagame.github.io/assets/movie/{movie_genre}/filename{extension}`
 
 *callback*
