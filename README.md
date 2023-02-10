@@ -1,154 +1,170 @@
 # assets
 arquivos de imagens
 
+#### API: `https://memoriagame.github.io/assets/movie/{movie_genre}/filename {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/movie/action/`
+- GET: `https://memoriagame.github.io/assets/movie/adventure/`
+- GET: `https://memoriagame.github.io/assets/movie/art_movie/`
+- GET: `https://memoriagame.github.io/assets/movie/chanchada/`
+- GET: `https://memoriagame.github.io/assets/movie/comedy/`
+- GET: `https://memoriagame.github.io/assets/movie/comedy/action`
+- GET: `https://memoriagame.github.io/assets/movie/comedy/horror`
+- GET: `https://memoriagame.github.io/assets/movie/comedy/dramatic`
+- GET: `https://memoriagame.github.io/assets/movie/comedy/romantic`
+- GET: `https://memoriagame.github.io/assets/movie/dance`
+- GET: `https://memoriagame.github.io/assets/movie/documentary`
+- GET: `https://memoriagame.github.io/assets/movie/documentary/fiction`
+- GET: `https://memoriagame.github.io/assets/movie/documentaryscience`
+- GET: `https://memoriagame.github.io/assets/movie/drama`
+- GET: `https://memoriagame.github.io/assets/movie/espionage`
+- GET: `https://memoriagame.github.io/assets/movie/western`
+- GET: `https://memoriagame.github.io/assets/movie/fantasy`
+- GET: `https://memoriagame.github.io/assets/movie/science`
+- GET: `https://memoriagame.github.io/assets/movie/science/fiction`
+- GET: `https://memoriagame.github.io/assets/movie/science/fantasy`
+- GET: `https://memoriagame.github.io/assets/movie/movies_with_gimmicks`
+- GET: `https://memoriagame.github.io/assets/movie/war`
+- GET: `https://memoriagame.github.io/assets/movie/mystery`
+- GET: `https://memoriagame.github.io/assets/movie/musical`
+- GET: `https://memoriagame.github.io/assets/movie/cop`
+- GET: `https://memoriagame.github.io/assets/movie/romance`
+- GET: `https://memoriagame.github.io/assets/movie/horror`
+- GET: `https://memoriagame.github.io/assets/movie/terror`
+- GET: `https://memoriagame.github.io/assets/movie/terror/O Gabinete do Dr. Caligari (1920).png`
+- GET: `https://memoriagame.github.io/assets/movie/terror/Carrie - A Estranha (1976)`
+- GET: `https://memoriagame.github.io/assets/movie/terror/Nosferatu, o Vampiro (1922)`
+- GET: `https://memoriagame.github.io/assets/movie/terror/Suspiria (1977)`
+- GET: `https://memoriagame.github.io/assets/movie/thriller`
+
+#### API: `https://memoriagame.github.io/assets/mythology/{mythology_type}/filename {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/movie/mythology/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/greek/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/egyptian/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/norse/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/roman/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/hindu/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/japanese/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/aztec/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/yoruba/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/celtic/`
+- GET: `https://memoriagame.github.io/assets/movie/mythology/chinese/`
+
+#### GET: `https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename {.png, .jpeg, .jpg, .svg}
+- GET: `https://memoriagame.github.io/assets/movie_theater/screenwriter
+- GET: `https://memoriagame.github.io/assets/movie_theater/director
+- GET: `https://memoriagame.github.io/assets/movie_theater/animator
+
+#### GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename {.png, .jpeg, .jpg, .svg}
+
+Em nossa historiografia movie_theatertográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do movie_theater sonoro, as chanchadas, o movie_theater Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
+- GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/sonoro`
+- GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/cinema_novo`
+- GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/udigrudi`
+- GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/cinema_mudo`
+- GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/embrafilme`
+
+#### GET: `https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}
 ```markdown
-https://memoriagame.github.io/assets/movie_theater/action
-https://memoriagame.github.io/assets/movie_theater/Adventure
-https://memoriagame.github.io/assets/movie_theater/art_movie_theater
-https://memoriagame.github.io/assets/movie_theater/chanchada
-https://memoriagame.github.io/assets/movie_theater/Comedy
-https://memoriagame.github.io/assets/movie_theater/action_comedy
-https://memoriagame.github.io/assets/movie_theater/horror_comedy
-https://memoriagame.github.io/assets/movie_theater/dramatic_comedy
-https://memoriagame.github.io/assets/movie_theater/romantic_comedy
-https://memoriagame.github.io/assets/movie_theater/dance
-https://memoriagame.github.io/assets/movie_theater/documentary
-https://memoriagame.github.io/assets/movie_theater/docufiction
-https://memoriagame.github.io/assets/movie_theater/drama
-https://memoriagame.github.io/assets/movie_theater/espionage
-https://memoriagame.github.io/assets/movie_theater/western
-https://memoriagame.github.io/assets/movie_theater/fantasy
-https://memoriagame.github.io/assets/movie_theater/science_fantasy
-https://memoriagame.github.io/assets/movie_theater/Science_fiction
-https://memoriagame.github.io/assets/movie_theater/movies_with_gimmicks
-https://memoriagame.github.io/assets/movie_theater/war
-https://memoriagame.github.io/assets/movie_theater/mystery
-https://memoriagame.github.io/assets/movie_theater/musical
-https://memoriagame.github.io/assets/movie_theater/cop
-https://memoriagame.github.io/assets/movie_theater/romance
-https://memoriagame.github.io/assets/movie_theater/horror
-https://memoriagame.github.io/assets/movie_theater/thriller
-https://memoriagame.github.io/assets/movie_theater/screenwriter
-https://memoriagame.github.io/assets/movie_theater/director
-https://memoriagame.github.io/assets/movie_theater/animator
-https://memoriagame.github.io/assets/movie_theater/mythology
-https://memoriagame.github.io/assets/movie_theater/mythology/greek
-https://memoriagame.github.io/assets/movie_theater/mythology/egyptian
-https://memoriagame.github.io/assets/movie_theater/mythology/norse
-https://memoriagame.github.io/assets/movie_theater/mythology/roman
-https://memoriagame.github.io/assets/movie_theater/mythology/hindu
-https://memoriagame.github.io/assets/movie_theater/mythology/japanese
-https://memoriagame.github.io/assets/movie_theater/mythology/aztec
-https://memoriagame.github.io/assets/movie_theater/mythology/yoruba
-https://memoriagame.github.io/assets/movie_theater/mythology/celtic
-https://memoriagame.github.io/assets/movie_theater/mythology/chinese
+GET: `https://memoriagame.github.io/assets/game/checkers/peca1.png
+GET: `https://memoriagame.github.io/assets/game/checkers/peca2.png
+```
+
+#### GET: `https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca1.png
+GET: `https://memoriagame.github.io/assets/game/tic-tac-toe/peca2.png
+```
+
+#### GET: `https://memoriagame.github.io/assets/game/chess {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/game/chess/tower.png
+GET: `https://memoriagame.github.io/assets/game/chess/horse.png
+GET: `https://memoriagame.github.io/assets/game/chess/pawn.png
+GET: `https://memoriagame.github.io/assets/game/chess/bishop.png
+GET: `https://memoriagame.github.io/assets/game/chess/queen.png
+GET: `https://memoriagame.github.io/assets/game/chess/king.png
+```
+
+#### GET: `https://memoriagame.github.io/assets/mockup/{mockup-type} {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/mockup/desktop/
+GET: `https://memoriagame.github.io/assets/mockup/mobile/
+```
+
+#### GET: `https://memoriagame.github.io/assets/mockup/desktop/ {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop1.png
+GET: `https://memoriagame.github.io/assets/mockup/desktop/desktop2.png
+```
+
+#### GET: `https://memoriagame.github.io/assets/mockup/mobile/ {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile1.png
+GET: `https://memoriagame.github.io/assets/mockup/mobile/mobile2.png
+```
+
+#### GET: `https://memoriagame.github.io/assets/character/pokemon/ {.png, .jpeg, .jpg, .svg}
+```markdown
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/kadabra.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/mimikyu.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/slowbro.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/espeon.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/murkrow.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/togepi.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/wobbuffet.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/gloom.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/nickit.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/croagunk.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/glastly.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/drowzee.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/drifloon.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/ralts.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/spinda.jpeg
+GET: `https://memoriagame.github.io/assets/game/character/pokemon/psyduck.jpeg
+```
+
+#### GET: `https://memoriagame.github.io/assets/character/naruto/ {.png, .jpeg, .jpg, .svg}
+#### GET: `https://memoriagame.github.io/assets/character/death-note/ {.png, .jpeg, .jpg, .svg}
+#### GET: `https://memoriagame.github.io/assets/character/one-piece/ {.png, .jpeg, .jpg, .svg}
+#### GET: `https://memoriagame.github.io/assets/character/dragon-ball-z/ {.png, .jpeg, .jpg, .svg}
+#### GET: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao/ {.png, .jpeg, .jpg, .svg}
+#### GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho/ {.png, .jpeg, .jpg, .svg}
+
+#### GET: `https://memoriagame.github.io/assets/logo/ {.png, .jpeg, .jpg, .svg}
+```markdown
+#### GET: `https://memoriagame.github.io/assets/logo/logo.jpg  <!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
+
 ```
 
 ```markdown
 
-https://memoriagame.github.io/assets/movie_theater/terror
-- /O Gabinete do Dr. Caligari (1920).png
-- /Carrie - A Estranha (1976)
-- /Nosferatu, o Vampiro (1922)
-- /Suspiria (1977)
-
-https://memoriagame.github.io/assets/movie_theater/action
-https://memoriagame.github.io/assets/movie_theater/aventura
-https://memoriagame.github.io/assets/movie_theater/movie_theater de arte
-https://memoriagame.github.io/assets/movie_theater/chanchada
-https://memoriagame.github.io/assets/movie_theater/comédia
-https://memoriagame.github.io/assets/movie_theater/comédia de ação
-https://memoriagame.github.io/assets/movie_theater/comédia de terror
-https://memoriagame.github.io/assets/movie_theater/comédia dramática
-https://memoriagame.github.io/assets/movie_theater/comédia romântica
-https://memoriagame.github.io/assets/movie_theater/dança
-https://memoriagame.github.io/assets/movie_theater/documentário
-https://memoriagame.github.io/assets/movie_theater/docuficção
-https://memoriagame.github.io/assets/movie_theater/drama
-https://memoriagame.github.io/assets/movie_theater/espionagem
-https://memoriagame.github.io/assets/movie_theater/faroeste
-https://memoriagame.github.io/assets/movie_theater/fantasia
-https://memoriagame.github.io/assets/movie_theater/fantasia científica
-https://memoriagame.github.io/assets/movie_theater/ficção científica
-https://memoriagame.github.io/assets/movie_theater/filmes com truques
-https://memoriagame.github.io/assets/movie_theater/filmes de guerra
-https://memoriagame.github.io/assets/movie_theater/mistério
-https://memoriagame.github.io/assets/movie_theater/musical
-https://memoriagame.github.io/assets/movie_theater/filme policial
-https://memoriagame.github.io/assets/movie_theater/romance
-https://memoriagame.github.io/assets/movie_theater/terror
-https://memoriagame.github.io/assets/movie_theater/thriller
-
-Em nossa historiografia movie_theatertográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do movie_theater sonoro, as chanchadas, o movie_theater Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
-
-
-
-
-
-https://memoriagame.github.io/assets/damas
-- /peca1.png
-- /peca2.png
-
-https://memoriagame.github.io/assets/chess
-- /torre.png
-- /cavalo.png
-- /peao.png
-- /bispo.png
-- /rainha.png
-- /rei.png
-
-https://memoriagame.github.io/assets/mockup/
-- /mockup1.jpg
-- /mockup2.jpg
-
-https://memoriagame.github.io/assets/favicon
+GET: `https://memoriagame.github.io/assets/favicon
 - /favicon.jpg
 
-https://memoriagame.github.io/assets/logo
-- /logo.jpg ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4
+GET: `https://memoriagame.github.io/assets/logo
 
-https://memoriagame.github.io/assets/mockup/desktop
-- /desktop1.jpg
-- /desktop2.jpg
-
-https://memoriagame.github.io/assets/mockup/mobile
+GET: `https://memoriagame.github.io/assets/mockup/mobile
 - /mobile1.jpg
 - /mobile2.jpg
 
-https://memoriagame.github.io/assets/paises
-https://memoriagame.github.io/assets/readme
+GET: `https://memoriagame.github.io/assets/paises
+GET: `https://memoriagame.github.io/assets/readme
 
-https://memoriagame.github.io/assets/game/back
+GET: `https://memoriagame.github.io/assets/game/back
 - /back.png
 - /back.jpeg
 
-https://memoriagame.github.io/assets/game/character/pokemon
-- /kadabra.jpeg
-- /mimikyu.jpeg
-- /slowbro.jpeg
-- /espeon.jpeg
-- /murkrow.jpeg
-- /togepi.jpeg
-- /wobbuffet.jpeg
-- /gloom.jpeg
-- /nickit.jpeg
-- /croagunk.jpeg
-- /glastly.jpeg
-- /drowzee.jpeg
-- /drifloon.jpeg
-- /ralts.jpeg
-- /spinda.jpeg
-- /psyduck.jpeg
 
-https://memoriagame.github.io/assets/game/cidade/nome-da-cidade.jpeg
-https://memoriagame.github.io/assets/game/estado/nome-do-estado.jpeg
-https://memoriagame.github.io/assets/game/pais/nome-do-pais.jpeg
+GET: `https://memoriagame.github.io/assets/game/cidade/nome-da-cidade.jpeg
+GET: `https://memoriagame.github.io/assets/game/estado/nome-do-estado.jpeg
+GET: `https://memoriagame.github.io/assets/game/pais/nome-do-pais.jpeg
 
-https://memoriagame.github.io/assets/game/tema
+GET: `https://memoriagame.github.io/assets/game/tema
 - /tema1.png
 - /tema2.png
 
-https://memoriagame.github.io/assets/game/cenario
+GET: `https://memoriagame.github.io/assets/game/cenario
 - /cenario1.png
 - /cenario2.png
 ```
