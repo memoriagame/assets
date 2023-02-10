@@ -1,6 +1,33 @@
 # assets
 arquivos de imagens
 
+Action
+Adventure
+art cinema
+chanchada
+Comedy
+action comedy
+horror comedy
+Dramatic comedy
+Romantic comedy
+Dance
+Documentary
+docufiction
+Drama
+Espionage
+Western
+Fantasy
+science fantasy
+Science fiction
+movies with gimmicks
+war movies
+Mystery
+musical
+cop movie
+Romance
+Horror
+thriller
+
 ```markdown
 
 https://memoriagame.github.io/assets/cinema/terror
