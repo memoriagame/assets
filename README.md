@@ -1,69 +1,85 @@
 # assets
 arquivos de imagens
 
-Action
-Adventure
-art cinema
-chanchada
-Comedy
-action comedy
-horror comedy
-Dramatic comedy
-Romantic comedy
-Dance
-Documentary
-docufiction
-Drama
-Espionage
-Western
-Fantasy
-science fantasy
-Science fiction
-movies with gimmicks
-war movies
-Mystery
-musical
-cop movie
-Romance
-Horror
-thriller
+```markdown
+https://memoriagame.github.io/assets/movie_theater/action
+https://memoriagame.github.io/assets/movie_theater/Adventure
+https://memoriagame.github.io/assets/movie_theater/art_movie_theater
+https://memoriagame.github.io/assets/movie_theater/chanchada
+https://memoriagame.github.io/assets/movie_theater/Comedy
+https://memoriagame.github.io/assets/movie_theater/action_comedy
+https://memoriagame.github.io/assets/movie_theater/horror_comedy
+https://memoriagame.github.io/assets/movie_theater/dramatic_comedy
+https://memoriagame.github.io/assets/movie_theater/romantic_comedy
+https://memoriagame.github.io/assets/movie_theater/dance
+https://memoriagame.github.io/assets/movie_theater/documentary
+https://memoriagame.github.io/assets/movie_theater/docufiction
+https://memoriagame.github.io/assets/movie_theater/drama
+https://memoriagame.github.io/assets/movie_theater/espionage
+https://memoriagame.github.io/assets/movie_theater/western
+https://memoriagame.github.io/assets/movie_theater/fantasy
+https://memoriagame.github.io/assets/movie_theater/science_fantasy
+https://memoriagame.github.io/assets/movie_theater/Science_fiction
+https://memoriagame.github.io/assets/movie_theater/movies_with_gimmicks
+https://memoriagame.github.io/assets/movie_theater/war
+https://memoriagame.github.io/assets/movie_theater/mystery
+https://memoriagame.github.io/assets/movie_theater/musical
+https://memoriagame.github.io/assets/movie_theater/cop
+https://memoriagame.github.io/assets/movie_theater/romance
+https://memoriagame.github.io/assets/movie_theater/horror
+https://memoriagame.github.io/assets/movie_theater/thriller
+https://memoriagame.github.io/assets/movie_theater/screenwriter
+https://memoriagame.github.io/assets/movie_theater/director
+https://memoriagame.github.io/assets/movie_theater/animator
+https://memoriagame.github.io/assets/movie_theater/mythology
+https://memoriagame.github.io/assets/movie_theater/mythology/greek
+https://memoriagame.github.io/assets/movie_theater/mythology/egyptian
+https://memoriagame.github.io/assets/movie_theater/mythology/norse
+https://memoriagame.github.io/assets/movie_theater/mythology/roman
+https://memoriagame.github.io/assets/movie_theater/mythology/hindu
+https://memoriagame.github.io/assets/movie_theater/mythology/japanese
+https://memoriagame.github.io/assets/movie_theater/mythology/aztec
+https://memoriagame.github.io/assets/movie_theater/mythology/yoruba
+https://memoriagame.github.io/assets/movie_theater/mythology/celtic
+https://memoriagame.github.io/assets/movie_theater/mythology/chinese
+```
 
 ```markdown
 
-https://memoriagame.github.io/assets/cinema/terror
+https://memoriagame.github.io/assets/movie_theater/terror
 - /O Gabinete do Dr. Caligari (1920).png
 - /Carrie - A Estranha (1976)
 - /Nosferatu, o Vampiro (1922)
 - /Suspiria (1977)
 
-https://memoriagame.github.io/assets/cinema/ação
-https://memoriagame.github.io/assets/cinema/aventura
-https://memoriagame.github.io/assets/cinema/cinema de arte
-https://memoriagame.github.io/assets/cinema/chanchada
-https://memoriagame.github.io/assets/cinema/comédia
-https://memoriagame.github.io/assets/cinema/comédia de ação
-https://memoriagame.github.io/assets/cinema/comédia de terror
-https://memoriagame.github.io/assets/cinema/comédia dramática
-https://memoriagame.github.io/assets/cinema/comédia romântica
-https://memoriagame.github.io/assets/cinema/dança
-https://memoriagame.github.io/assets/cinema/documentário
-https://memoriagame.github.io/assets/cinema/docuficção
-https://memoriagame.github.io/assets/cinema/drama
-https://memoriagame.github.io/assets/cinema/espionagem
-https://memoriagame.github.io/assets/cinema/faroeste
-https://memoriagame.github.io/assets/cinema/fantasia
-https://memoriagame.github.io/assets/cinema/fantasia científica
-https://memoriagame.github.io/assets/cinema/ficção científica
-https://memoriagame.github.io/assets/cinema/filmes com truques
-https://memoriagame.github.io/assets/cinema/filmes de guerra
-https://memoriagame.github.io/assets/cinema/mistério
-https://memoriagame.github.io/assets/cinema/musical
-https://memoriagame.github.io/assets/cinema/filme policial
-https://memoriagame.github.io/assets/cinema/romance
-https://memoriagame.github.io/assets/cinema/terror
-https://memoriagame.github.io/assets/cinema/thriller
+https://memoriagame.github.io/assets/movie_theater/action
+https://memoriagame.github.io/assets/movie_theater/aventura
+https://memoriagame.github.io/assets/movie_theater/movie_theater de arte
+https://memoriagame.github.io/assets/movie_theater/chanchada
+https://memoriagame.github.io/assets/movie_theater/comédia
+https://memoriagame.github.io/assets/movie_theater/comédia de ação
+https://memoriagame.github.io/assets/movie_theater/comédia de terror
+https://memoriagame.github.io/assets/movie_theater/comédia dramática
+https://memoriagame.github.io/assets/movie_theater/comédia romântica
+https://memoriagame.github.io/assets/movie_theater/dança
+https://memoriagame.github.io/assets/movie_theater/documentário
+https://memoriagame.github.io/assets/movie_theater/docuficção
+https://memoriagame.github.io/assets/movie_theater/drama
+https://memoriagame.github.io/assets/movie_theater/espionagem
+https://memoriagame.github.io/assets/movie_theater/faroeste
+https://memoriagame.github.io/assets/movie_theater/fantasia
+https://memoriagame.github.io/assets/movie_theater/fantasia científica
+https://memoriagame.github.io/assets/movie_theater/ficção científica
+https://memoriagame.github.io/assets/movie_theater/filmes com truques
+https://memoriagame.github.io/assets/movie_theater/filmes de guerra
+https://memoriagame.github.io/assets/movie_theater/mistério
+https://memoriagame.github.io/assets/movie_theater/musical
+https://memoriagame.github.io/assets/movie_theater/filme policial
+https://memoriagame.github.io/assets/movie_theater/romance
+https://memoriagame.github.io/assets/movie_theater/terror
+https://memoriagame.github.io/assets/movie_theater/thriller
 
-Em nossa historiografia cinematográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do cinema sonoro, as chanchadas, o Cinema Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
+Em nossa historiografia movie_theatertográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do movie_theater sonoro, as chanchadas, o movie_theater Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
 
 
 
