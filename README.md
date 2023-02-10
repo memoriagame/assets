@@ -1,9 +1,7 @@
 # assets
 arquivos de imagens
 
-## API
-
-### Allowed extensions
+## Allowed extensions
 extension: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 
 ## API
