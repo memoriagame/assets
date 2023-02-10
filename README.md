@@ -61,9 +61,9 @@ arquivos de imagens
 `https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename {.png, .jpeg, .jpg, .svg}`
 
 *callback*
-- GET: `https://memoriagame.github.io/assets/movie_theater/screenwriter
-- GET: `https://memoriagame.github.io/assets/movie_theater/director
-- GET: `https://memoriagame.github.io/assets/movie_theater/animator
+- GET: `https://memoriagame.github.io/assets/movie_theater/screenwriter`
+- GET: `https://memoriagame.github.io/assets/movie_theater/director`
+- GET: `https://memoriagame.github.io/assets/movie_theater/animator`
 
 ### API
 `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename {.png, .jpeg, .jpg, .svg}`
