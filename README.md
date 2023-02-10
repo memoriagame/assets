@@ -1,7 +1,7 @@
 # assets
 arquivos de imagens
 
-##### API: `https://memoriagame.github.io/assets/movie/{movie_genre}/filename {.png, .jpeg, .jpg, .svg}
+API: `https://memoriagame.github.io/assets/movie/{movie_genre}/filename {.png, .jpeg, .jpg, .svg}
 - GET: `https://memoriagame.github.io/assets/movie/action/`
 - GET: `https://memoriagame.github.io/assets/movie/adventure/`
 - GET: `https://memoriagame.github.io/assets/movie/art_movie/`
