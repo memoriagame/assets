@@ -2,6 +2,46 @@
 arquivos de imagens
 
 ```markdown
+
+https://memoriagame.github.io/assets/cinema/terror
+- /O Gabinete do Dr. Caligari (1920).png
+- /Carrie - A Estranha (1976)
+- /Nosferatu, o Vampiro (1922)
+- /Suspiria (1977)
+
+https://memoriagame.github.io/assets/cinema/ação
+https://memoriagame.github.io/assets/cinema/aventura
+https://memoriagame.github.io/assets/cinema/cinema de arte
+https://memoriagame.github.io/assets/cinema/chanchada
+https://memoriagame.github.io/assets/cinema/comédia
+https://memoriagame.github.io/assets/cinema/comédia de ação
+https://memoriagame.github.io/assets/cinema/comédia de terror
+https://memoriagame.github.io/assets/cinema/comédia dramática
+https://memoriagame.github.io/assets/cinema/comédia romântica
+https://memoriagame.github.io/assets/cinema/dança
+https://memoriagame.github.io/assets/cinema/documentário
+https://memoriagame.github.io/assets/cinema/docuficção
+https://memoriagame.github.io/assets/cinema/drama
+https://memoriagame.github.io/assets/cinema/espionagem
+https://memoriagame.github.io/assets/cinema/faroeste
+https://memoriagame.github.io/assets/cinema/fantasia
+https://memoriagame.github.io/assets/cinema/fantasia científica
+https://memoriagame.github.io/assets/cinema/ficção científica
+https://memoriagame.github.io/assets/cinema/filmes com truques
+https://memoriagame.github.io/assets/cinema/filmes de guerra
+https://memoriagame.github.io/assets/cinema/mistério
+https://memoriagame.github.io/assets/cinema/musical
+https://memoriagame.github.io/assets/cinema/filme policial
+https://memoriagame.github.io/assets/cinema/romance
+https://memoriagame.github.io/assets/cinema/terror
+https://memoriagame.github.io/assets/cinema/thriller
+
+Em nossa historiografia cinematográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do cinema sonoro, as chanchadas, o Cinema Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
+
+
+
+
+
 https://memoriagame.github.io/assets/damas
 - /peca1.png
 - /peca2.png
