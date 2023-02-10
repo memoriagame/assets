@@ -150,43 +150,43 @@ Em nossa historiografia movie_theatertográfica, esses períodos incluem os prim
 `https://memoriagame.github.io/assets/character/naruto/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/naruto.png`
+- GET: `https://memoriagame.github.io/assets/character/naruto.png`
 
 ### API 
 `https://memoriagame.github.io/assets/character/death-note/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/death-note.png`
+- GET: `https://memoriagame.github.io/assets/character/death-note.png`
 
 ### API 
 `https://memoriagame.github.io/assets/character/one-piece/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/one-piece.png`
+- GET: `https://memoriagame.github.io/assets/character/one-piece.png`
 
 ### API
 `https://memoriagame.github.io/assets/character/dragon-ball-z/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/dragon-ball-z.png`
+- GET: `https://memoriagame.github.io/assets/character/dragon-ball-z.png`
 
 ### API
 `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao.png`
+- GET: `https://memoriagame.github.io/assets/character/caveleiros-do-zodiacao.png`
 
 ### API
 `https://memoriagame.github.io/assets/character/yuyu-hakusho/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho.png`
+- GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho.png`
 
 ### API
 `https://memoriagame.github.io/assets/logo/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/logo/logo.jpg` 
+- GET: `https://memoriagame.github.io/assets/logo/logo.jpg` 
 
 <!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
 
@@ -194,13 +194,13 @@ GET: `https://memoriagame.github.io/assets/logo/logo.jpg`
 `https://memoriagame.github.io/assets/geography/city-name/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/geography/city-name/city-name.png`
+- GET: `https://memoriagame.github.io/assets/geography/city-name/city-name.png`
 
 ### API
 `https://memoriagame.github.io/assets/geography/country/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/geography/country/country-name.png`
+- GET: `https://memoriagame.github.io/assets/geography/country/country-name.png`
 
 ### API
 `https://memoriagame.github.io/assets/geography/state-name/{extension}`
