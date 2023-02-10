@@ -1,7 +1,7 @@
 # assets
 arquivos de imagens
 
-#### API: `https://memoriagame.github.io/assets/movie/{movie_genre}/filename {.png, .jpeg, .jpg, .svg}
+##### API: `https://memoriagame.github.io/assets/movie/{movie_genre}/filename {.png, .jpeg, .jpg, .svg}
 - GET: `https://memoriagame.github.io/assets/movie/action/`
 - GET: `https://memoriagame.github.io/assets/movie/adventure/`
 - GET: `https://memoriagame.github.io/assets/movie/art_movie/`
@@ -36,7 +36,7 @@ arquivos de imagens
 - GET: `https://memoriagame.github.io/assets/movie/terror/Suspiria (1977)`
 - GET: `https://memoriagame.github.io/assets/movie/thriller`
 
-#### API: `https://memoriagame.github.io/assets/mythology/{mythology_type}/filename {.png, .jpeg, .jpg, .svg}
+##### API: `https://memoriagame.github.io/assets/mythology/{mythology_type}/filename {.png, .jpeg, .jpg, .svg}
 - GET: `https://memoriagame.github.io/assets/movie/mythology/`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/greek/`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/egyptian/`
