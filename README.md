@@ -206,7 +206,7 @@ GET: `https://memoriagame.github.io/assets/geography/country/country-name.png`
 `https://memoriagame.github.io/assets/geography/state-name/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/geography/state/state-name.png`
+- GET: `https://memoriagame.github.io/assets/geography/state/state-name.png`
 
 ### API
 `https://memoriagame.github.io/assets/game/game-name/{extension}`
@@ -233,10 +233,10 @@ GET: `https://memoriagame.github.io/assets/geography/state/state-name.png`
 `https://memoriagame.github.io/assets/game/game-name/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/readme/readme.png`
+- GET: `https://memoriagame.github.io/assets/readme/readme.png`
 
 ### API
 `https://memoriagame.github.io/assets/game/game-name/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/favicon/favicon.png`
+- GET: `https://memoriagame.github.io/assets/favicon/favicon.png`
