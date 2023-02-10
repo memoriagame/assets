@@ -186,7 +186,9 @@ GET: `https://memoriagame.github.io/assets/character/yuyu-hakusho.png`
 `https://memoriagame.github.io/assets/logo/{extension}`
 
 *callback*
-GET: `https://memoriagame.github.io/assets/logo/logo.jpg`  <!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
+GET: `https://memoriagame.github.io/assets/logo/logo.jpg` 
+
+<!--- ou https://avatars.githubusercontent.com/u/124619609?s=200&v=4 --->
 
 ### API
 `https://memoriagame.github.io/assets/geography/city-name/{extension}`
