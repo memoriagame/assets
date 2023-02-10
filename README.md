@@ -39,7 +39,10 @@ arquivos de imagens
 - GET: `https://memoriagame.github.io/assets/movie/terror/Suspiria (1977)`
 - GET: `https://memoriagame.github.io/assets/movie/thriller`
 
-##### API: `https://memoriagame.github.io/assets/mythology/{mythology_type}/filename {.png, .jpeg, .jpg, .svg}
+## API
+`https://memoriagame.github.io/assets/mythology/{mythology_type}/filename {.png, .jpeg, .jpg, .svg}`
+
+## Callback
 - GET: `https://memoriagame.github.io/assets/movie/mythology/`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/greek/`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/egyptian/`
@@ -52,21 +55,28 @@ arquivos de imagens
 - GET: `https://memoriagame.github.io/assets/movie/mythology/celtic/`
 - GET: `https://memoriagame.github.io/assets/movie/mythology/chinese/`
 
-#### GET: `https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename {.png, .jpeg, .jpg, .svg}
+## API
+`https://memoriagame.github.io/assets/movie_theater/movie_theater_function/filename {.png, .jpeg, .jpg, .svg}`
 - GET: `https://memoriagame.github.io/assets/movie_theater/screenwriter
 - GET: `https://memoriagame.github.io/assets/movie_theater/director
 - GET: `https://memoriagame.github.io/assets/movie_theater/animator
 
-#### GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename {.png, .jpeg, .jpg, .svg}
+## API
+`https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/filename {.png, .jpeg, .jpg, .svg}`
 
 Em nossa historiografia movie_theatertográfica, esses períodos incluem os primeiros filmes e o domínio de Hollywood, o surgimento do movie_theater sonoro, as chanchadas, o movie_theater Novo e o “udigrúdi”, a Embrafilme, a crise dos anos 1980, a Retomada e a Pós-Retomada.Feb 26, 2019
+
+## Callback
 - GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/sonoro`
 - GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/cinema_novo`
 - GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/udigrudi`
 - GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/cinema_mudo`
 - GET: `https://memoriagame.github.io/assets/movie_theater/cinematographic_movements/embrafilme`
 
-API: `https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}`
+## API
+`https://memoriagame.github.io/assets/game/checkers {.png, .jpeg, .jpg, .svg}`
+
+## Callback
 - GET: `https://memoriagame.github.io/assets/game/checkers/peca1.png`
 - GET: `https://memoriagame.github.io/assets/game/checkers/peca2.png`
 
