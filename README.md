@@ -6,6 +6,8 @@ arquivos de imagens
 ### Allowed extensions
 extension: `.png`, `.jpeg`, `.svg`, `.icon`, `.ico`, `.jpg`
 
+## API
+
 ### Movie
 `https://memoriagame.github.io/assets/movie/{movie_genre}/filename{extension}`
 
